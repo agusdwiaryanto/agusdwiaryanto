@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.sainskomputer.com"><img src="banner.png" alt="sainskomp Banner"></a>
+  <a href="https://www.sainskomputer.com"><img src="logo test (2).png" alt="sainskomp Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.sainskomputer.com">Agus Dwi</a>!</h1>
